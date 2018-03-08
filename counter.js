@@ -8,3 +8,9 @@ setInterval(() => {
 function show( output ) {
   console.log( output )
 } 
+
+function check( name ) {
+  if( name === '' ) return false
+
+  return true
+}
