@@ -7,5 +7,6 @@ fbShare( title, desc, img )
 
 function fbShare(title, desc, img ) {
   // ... execute
+  // fix the bug!
 }
 
